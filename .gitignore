@@ -1,0 +1,10 @@
+# Файлы Python
+__pycache__/
+*.py[cod]
+
+# База данных
+*.db
+
+# Файлы IDE
+.vscode/
+.idea/
